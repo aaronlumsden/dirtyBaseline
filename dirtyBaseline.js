@@ -30,8 +30,9 @@ function dirtyBaseline(number, color) {
         div.style.left = "0px";
         div.style.backgroundRepeat = "repeat-y";
         div.style.backgroundSize = "100% " + this.number + "px";
+        div.style.zIndex = "-1";
 
-        body.insertBefore(div,body.firstchild);
+        body.appendChild(div);
 
         baseline = document.getElementById("baseline");
 
