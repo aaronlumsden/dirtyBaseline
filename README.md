@@ -13,7 +13,7 @@ dirtyBaseline is the perfect starting point for blogs or online magazine's where
 
 Simply include the following in your html file before the closing body tag.
 
-```sh
+```js
 <script type="text/javascript" src="dirtyBaseline.js"></script>
 
 <script type="text/javascript">
@@ -30,16 +30,16 @@ dirtyBaseline();
 
 ### Example
 ```js
-\\Creates a new baseline grid with 24px height that is black.
+\\ Creates a new baseline grid with 24px height that is black.
 
 new dirtyBaseline(24,'#000');
 ```
 
 ### Keyboard Options
 
-  - *shift + up arrow* - Increase the size of the baseline (in pixels)
-  - *shift + down arrow* - Decrease the size of the baseline (in pixels)
-  - *shift + t* - Toggles the baseline grid on or off
+  - **shift + up arrow** - Increase the size of the baseline (in pixels)
+  - **shift + down arrow** - Decrease the size of the baseline (in pixels)
+  - **shift + t** - Toggles the baseline grid on or off
 
 ## Browser Support
 
