@@ -3,6 +3,8 @@ dirtyBaseline
 
 A Javascript plugin to help create beautiful baseline typography.
 
+[View Demo](http://codepen.io/aaronlumsden/pen/RNPqwa)
+
 ![dirtyBaseline.js](http://i59.tinypic.com/5v0g2v.gif)
 
 Setting a baseline grid for online typography has always been a problem due to the way that CSS handles text. dirtyBaseline steps in to solve this problem by offering a helper that allows you to create better typography for the web.
