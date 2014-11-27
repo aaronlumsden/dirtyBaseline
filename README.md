@@ -29,8 +29,9 @@ dirtyBaseline();
 | Color      	| No      	 		 |  #0ff   |
 
 ### Example
-```sh
+```js
 \\Creates a new baseline grid with 24px height that is black.
+
 new dirtyBaseline(24,'#000');
 ```
 
