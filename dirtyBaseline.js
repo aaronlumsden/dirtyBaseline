@@ -31,7 +31,7 @@ function dirtyBaseline(number, color) {
         div.style.backgroundRepeat = "repeat-y";
         div.style.backgroundSize = "100% " + this.number + "px";
 
-        body.appendChild(div);
+        body.insertBefore(div,body.firstchild);
 
         baseline = document.getElementById("baseline");
 
