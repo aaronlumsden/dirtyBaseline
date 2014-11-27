@@ -3,7 +3,7 @@ dirtyBaseline
 
 A Javascript plugin to help create beautiful baseline typography.
 
-[View Demo](http://codepen.io/aaronlumsden/pen/RNPqwa)
+[View Demo](http://codepen.io/aaronlumsden/full/RNPqwa)
 
 ![dirtyBaseline.js](http://i59.tinypic.com/5v0g2v.gif)
 
